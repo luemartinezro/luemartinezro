@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban Martinez Roldan</h1>
+
 <h3 align="left">Enthusiastic Data Scientist hailing from the vibrant landscapes of Colombia. My professional journey is fueled by an insatiable curiosity for unraveling patterns in data and crafting meaningful insights. With a keen eye for detail and a love for problem-solving, I specialize in the realms of Data Science, Statistics, Machine Learning, and Data Analysis. 
+
 
 Beyond the confines of data, I find solace in the rhythm of cycling, where the winding roads become a metaphor for my analytical journey—constantly pushing boundaries and seeking new horizons. Embark on a data-driven adventure with me, where every insight uncovered is a testament to innovation and possibility.</h3>
 
