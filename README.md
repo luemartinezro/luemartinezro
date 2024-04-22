@@ -7,7 +7,7 @@ Beyond the confines of data, I find solace in the rhythm of cycling, where the w
 
 - 🔭 I’m currently working on [Mercado Libre](MercadoLibre)
 
-- 🌱 I’m currently learning **pyTorch and Rust**
+- 🌱 I’m currently learning **Dask and Pyspark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
