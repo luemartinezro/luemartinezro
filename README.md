@@ -5,9 +5,9 @@
 
 Beyond the confines of data, I find solace in the rhythm of cycling, where the winding roads become a metaphor for my analytical journey—constantly pushing boundaries and seeking new horizons. Embark on a data-driven adventure with me, where every insight uncovered is a testament to innovation and possibility.</h3>
 
-- 🔭 I’m currently working on [Mercado Libre](MercadoLibre)
+- 🔭 I’m currently working on [Zabalabs](PRophet)
 
-- 🌱 I’m currently learning **Dask and Pyspark**
+- 🌱 I’m currently learning **LLM's and GenAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
