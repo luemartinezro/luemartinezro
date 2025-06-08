@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esteban Martinez Roldan</h1>
 
-<h3 align="left">Enthusiastic Data Scientist hailing from the vibrant landscapes of Colombia. My professional journey is fueled by an insatiable curiosity for unraveling patterns in data and crafting meaningful insights. With a keen eye for detail and a love for problem-solving, I specialize in the realms of Data Science, Statistics, Machine Learning, and Data Analysis. 
+<h3 align="left">From the vibrant heart of Colombia, I transform raw data into golden insights—where every dataset tells a story, and every algorithm unlocks possibility. As a Data Scientist, I thrive at the intersection of statistics, machine learning, and analytical storytelling, turning complexity into clarity. My passion? Decoding patterns, predicting trends, and building intelligent systems that drive real-world impact.
 
-
-Beyond the confines of data, I find solace in the rhythm of cycling, where the winding roads become a metaphor for my analytical journey—constantly pushing boundaries and seeking new horizons. Embark on a data-driven adventure with me, where every insight uncovered is a testament to innovation and possibility.</h3>
+When I’m not training models or optimizing pipelines, you’ll find me cycling through uncharted paths—a reflection of my approach to data: relentless curiosity, momentum, and the thrill of discovering what’s around the next bend. Let’s collaborate to turn your data into actionable innovation.</h3>
 
 - 🔭 I’m currently working on [Zabalabs](PRophet)
 
