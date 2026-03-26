@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Martinez Roldan</h1>
 
-<h3 align="left">From the vibrant heart of Colombia, I transform raw data into golden insights—where every dataset tells a story, and every algorithm unlocks possibility. As a Data Scientist, I thrive at the intersection of statistics, machine learning, and analytical storytelling, turning complexity into clarity. My passion? Decoding patterns, predicting trends, and building intelligent systems that drive real-world impact.
-
-When I’m not training models or optimizing pipelines, you’ll find me cycling through uncharted paths—a reflection of my approach to data: relentless curiosity, momentum, and the thrill of discovering what’s around the next bend. Let’s collaborate to turn your data into actionable innovation.</h3>
+<h3 align="left">Results-driven Data Scientist and Data Engineer with 7+ years of experience, including over 5 years focused on Machine Learning, Artificial Intelligence, and Software Development. Expert in Python programming and detailed working knowledge of data wrangling and ML frameworks (TensorFlow, PyTorch, Scikit-learn, SpaCy, Pandas, PySpark). Proven track record in utilizing, training, and fine-tuning Large Language Models (LLMs) and deploying NLP solutions for text understanding, classification, and summarization. Proficient in ML platforms (Databricks, Azure, AWS) and skilled in translating complex technical methods into actionable business insights for non-technical stakeholders. Holds a Master's Degree in Statistics and is currently pursuing a Master's in Artificial Intelligence.</h3>
 
 - 🔭 I’m currently working on [Zabalabs](PRophet)
 
